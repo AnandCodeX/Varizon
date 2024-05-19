@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+.navbar{
+  display: flex;
+  padding: 10px;
+}
+
+.logoimg{
+  height: 50px;
+  width: 50px;
+}
+.menu{
+  display:  flex;
+  padding:20px;
+}
+.table{
+  padding-left :80px;
+}
+.tds{
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+.tdp{
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+
+.ths{
+  padding-right: 40px;
+}
