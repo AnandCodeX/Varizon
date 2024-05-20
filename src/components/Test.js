@@ -46,7 +46,7 @@ const CsvToJsonUploader = () => {
 
   return (
 <React.Fragment>
-  {<Navbar/>}
+ 
    <div >
     <div className='menu'><div>  <h3>Upload CSV</h3>
       <input type="file" accept=".csv" onChange={handleFileUpload} /></div>
